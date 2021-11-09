@@ -8,7 +8,8 @@
 
 ## (2) --> BigO: O(n^2) 
 
-## (3) --> Time Complexity: Best case: O(n) = O(6)
+## (3) --> Time Complexity: 
+                         Best case: O(n) = O(6)
                          Average case: O(n^2) = O(36)
                          Worst case: O(n^2) = 0(36) 
                          
