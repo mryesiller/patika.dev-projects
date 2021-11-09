@@ -15,7 +15,7 @@
                          
 ## (4) --> Number 18 case : Average Case                         
                  
-## [7,3,5,8,2,9,4,15,6]  Insertion Sort first 4 step 
+## (5) --> [7,3,5,8,2,9,4,15,6]  Insertion Sort first 4 step 
 
 * STEP 1 --> [3,7,5,8,2,9,4,15,6]
 * STEP 2 --> [3,5,7,8,2,9,4,15,6]
